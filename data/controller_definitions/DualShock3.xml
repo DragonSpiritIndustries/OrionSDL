@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
+<!--
+    These definitions are intend to allow players to have their favorite controllers
+    display the proper names for buttons 
+-->
+<ControllerDefinition name="Sony PLAYSTATION(R)3 Controller">
+    <Button id="0" name="Select" img="controller_definitions/images/ds3/select.png"/>
+    <Button id="1" name="L3" img="controller_definitions/images/ds3/l3.png"/> 
+    <Button id="2" name="R3" img="controller_definitions/images/ds3/r3.png"/>
+    <Button id="3" name="Start" img="controller_definitions/images/ds3/start.png"/>
+    <Button id="4" name="Hat Up" img="controller_definitions/images/ds3/up.png"/>
+    <Button id="5" name="Hat Right" img="controller_definitions/images/ds3/right.png"/>
+    <Button id="6" name="Hat Down" img="controller_definitions/images/ds3/down.png"/>
+    <Button id="7" name="Hat Left" img="controller_definitions/images/ds3/left.png"/>
+    <Button id="8" name="L2" img="controller_definitions/images/ds3/l2.png"/>
+    <Button id="9" name="R2" img="controller_definitions/images/ds3/r2.png"/>
+    <Button id="10" name="L1" img="controller_definitions/images/ds3/l1.png"/>
+    <Button id="11" name="R1" img="controller_definitions/images/ds3/r1.png"/>
+    <Button id="12" name="Triangle" img="controller_definitions/images/ds3/tri.png"/>
+    <Button id="13" name="Circle" img="controller_definitions/images/ds3/cir.png"/>
+    <Button id="14" name="Cross" img="controller_definitions/images/ds3/cro.png"/>
+    <Button id="15" name="Square" img="controller_definitions/images/ds3/sqr.png"/>
+    <Button id="16" name="PS" img="controller_definitions/images/ds3/ps.png"/>
+</ControllerDefinition>

@@ -1,0 +1,6 @@
+[submodule "Athena"]
+	path = Athena
+	url = https://github.com/Antidote/Athena.git
+[submodule "Orion"]
+	path = Orion
+	url = https://github.com/Antidote/Orion.git
